@@ -1,7 +1,6 @@
-(https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/240658175_408986190922020_381756558977716361_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=AMxR7FYa5z0AX8VrxCA&_nc_ht=scontent.fdac23-1.fna&oh=7c2b5ca014a5481113a8088ae2ee1964&oe=619CC7D6)
-## Hi there 👋, I'm S. M. Ahaduzzaman
+### Hi there 👋, I'm S. M. Ahaduzzaman
 #### Professional Web Designer and Developer
-![Professional Web Designer and Developer]
+![Professional Web Designer and Developer](https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/240658175_408986190922020_381756558977716361_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=AMxR7FYa5z0AX8VrxCA&_nc_ht=scontent.fdac23-1.fna&oh=7c2b5ca014a5481113a8088ae2ee1964&oe=619CC7D6)
 
 I am from Bangladesh; a Professional Web Designer and Developer, a Teacher, and a Poet-literary also. Writing poetry is my favorite hobby. Also, I like to read. I am a firm believer in changing everything through my writing and I always try to do that.
 I am currently working on a project and a portfolio of all these works. My poems, quotes, and other writings are some of the highlights of my work.
