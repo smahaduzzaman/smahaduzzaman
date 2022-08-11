@@ -36,7 +36,16 @@
   alt=youtube style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here! <br /><br />
+### Glad to see you here!
+
+<div>
+  <img
+    src="https://document-export.canva.com/251so/DAFJBT251so/16/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220811T014928Z&X-Amz-Expires=48593&X-Amz-Signature=f98d2190e953300dd93a707882d881bd7c2ace76a9f4df6fbaddbefc61ff51e5&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2011%20Aug%202022%2015%3A19%3A21%20GMT"
+    align="center"
+    style="width: 100%"
+  />
+</div>
+
 I am from Bangladesh; a Professional Web Designer and Developer and a
 Poet-literary. Writing poetry is my favorite hobby. Also, I like to read. I am a
 firm believer in changing everything through my writing and I always try to do
@@ -44,18 +53,19 @@ that. I am currently working on a project and a portfolio of all these works. My
 poems, quotes, and other writings are some of the highlights of my work. I run a
 social movement called "Civilized Bangladesh" online and on social media. "Be
 civilized and build civilization" is the leading of this. Despite being poor, I
-carry out these activities on my own initiative. At the Last Amar Ekushey Book
-Fair - 2017, Dhaka, Bangladesh, I published a book of poetry titled "Fire Aye".
-Publisher - Suniti Publications, Dhaka, Bangladesh. The ISBN number of the book
-is 98-974-4473-25-1. I have mastered online SEO, Content Writing, Article
-Writing, Creative Writing, WordPress, and Website Design. I also have a good
-command of Microsoft Word, Excel, and PowerPoint. I can handle Android phones,
-Laptops, and Desktops well. I have completed various courses on these subjects
-and obtained multiple certificates. I have profiles on social media (like -
-Facebook, Twitter, Instagram, Linked In, and Pinterest) which have a significant
-amount of traffic. I also have multiple channels on YouTube, including Daily
-Motion. I often have to keep busy with several blogs and websites. Moreover, I
-regularly work in various marketplaces including Fiverr, Upwork, and SEO Clark.
+carry out these activities on my own initiative. <br /><br />At the Last Amar
+Ekushey Book Fair - 2017, Dhaka, Bangladesh, I published a book of poetry titled
+"Fire Aye". Publisher - Suniti Publications, Dhaka, Bangladesh. The ISBN number
+of the book is 98-974-4473-25-1. I have mastered online SEO, Content Writing,
+Article Writing, Creative Writing, WordPress, and Website Design. I also have a
+good command of Microsoft Word, Excel, and PowerPoint. I can handle Android
+phones, Laptops, and Desktops well. I have completed various courses on these
+subjects and obtained multiple certificates. <br /><br />I have profiles on
+social media (like - Facebook, Twitter, Instagram, Linked In, and Pinterest)
+which have a significant amount of traffic. I also have multiple channels on
+YouTube, including Daily Motion. I often have to keep busy with several blogs
+and websites. Moreover, I regularly work in various marketplaces including
+Fiverr, Upwork, and SEO Clark.
 
 <br />
 
@@ -63,12 +73,17 @@ regularly work in various marketplaces including Fiverr, Upwork, and SEO Clark.
 <table>
   <tr>
     <td valign="top" width="50%">
-      - 🔭 I’m currently working on [VisaPass](https://www.VisaPass.info/)
+      🔭 I’m currently working on [VisaPass](https://www.VisaPass.info/) <br />
+      🌱 I’m currently learning MERN Stack Development With Programming Hero
       <br />
-      🌱 I’m currently learning MERN Stack Development <br />
       ❓ Ask me about anything related to MERN stack and related technologies
       <br />
-      ⚡ Fun fact: I keep nightshift swithed on at all times
+      👯 I’m looking to collaborate on GitHub <br />
+      🤔 I’m looking for help with a new project ordered <br />
+      💬 Ask me about Web Designing and Developing <br />
+      📫 How to reach me: https://m.me/sm.ahaduzzaman.10/ <br />
+      😄 Pronouns: a programmer, a poet <br />
+      ⚡ Fun fact: Politics <br />
     </td>
     <td valign="top" width="50%">
       <div align="center">
@@ -334,25 +349,23 @@ regularly work in various marketplaces including Fiverr, Upwork, and SEO Clark.
 <br />
 <div>
   <img
-  src="https://cdn.pixabay.com/photo/2018/02/16/14/09/business-man-3157759_1280.jpg"
-  align="left"
-  height=""
-  width="450"
-/>
+    src="https://cdn.pixabay.com/photo/2018/02/16/14/09/business-man-3157759_1280.jpg"
+    align="left"
+    height=""
+    width="350"
+  />
   <img
-  src="https://cdn.pixabay.com/photo/2018/02/16/14/09/business-man-3157759_1280.jpg"
-  align="right"
-  height=""
-  width="450"
-/>
+    src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg"
+    align="right"
+    height=""
+    width="350"
+  />
 </div>
 
 <br />
 
 ----
 <div align="center">
-  Generated using
-  <a href="https://smahaduzzaman.com" target="_blank"
-    >S M Ahaduzzaman</a
-  >
+  Created By
+  <a href="https://smahaduzzaman.com" target="_blank">S M Ahaduzzaman</a>
 </div>
