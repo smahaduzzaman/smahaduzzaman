@@ -37,6 +37,7 @@
 </a>
 
 ### Glad to see you here!
+<br /><br />
 
 <div>
   <img
@@ -45,7 +46,7 @@
     style="width: 100%"
   />
 </div>
-
+<br /><br /><br />
 I am from Bangladesh; a Professional Web Designer and Developer and a
 Poet-literary. Writing poetry is my favorite hobby. Also, I like to read. I am a
 firm believer in changing everything through my writing and I always try to do
