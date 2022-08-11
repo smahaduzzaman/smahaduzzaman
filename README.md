@@ -1,42 +1,350 @@
-# Hi there 👋, I'm S. M. Ahaduzzaman
-### Professional Web Designer and Developer
-![Professional Web Designer and Developer]([https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/240658175_408986190922020_381756558977716361_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=AMxR7FYa5z0AX8VrxCA&_nc_ht=scontent.fdac23-1.fna&oh=7c2b5ca014a5481113a8088ae2ee1964&oe=619CC7D6](https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--enVmT-G4--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j8s2h4erdejm82dyyn7.png&imgrefurl=https%3A%2F%2Fdev.to%2Fruppysuppy%2Fbeautify-your-github-profile-like-a-pro-5093&tbnid=iYW8pW0jfOQl5M&vet=12ahUKEwj6pOHHxb75AhXpjtgFHSIYBP4QMygAegUIARDBAQ..i&docid=FXHWyz_-zNwxmM&w=1000&h=420&q=github%20cover%20image&ved=2ahUKEwj6pOHHxb75AhXpjtgFHSIYBP4QMygAegUIARDBAQ))
+## Hey 👋, I'm S. M. Ahaduzzaman
 
-I am from Bangladesh; a Professional Web Designer and Developer and a Poet-literary. Writing poetry is my favorite hobby. Also, I like to read. I am a firm believer in changing everything through my writing and I always try to do that.
-I am currently working on a project and a portfolio of all these works. My poems, quotes, and other writings are some of the highlights of my work.
-I run a social movement called "Civilized Bangladesh" through online and social media. "Be civilized and build civilization" is the leading of this. Despite being poor, I carry out these activities on my own initiative.
+<a href="https://github.com/smahaduzzaman" target="_blank">
+  <img
+  src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
+  alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/SovvoBangladesh" target="_blank">
+  <img
+  src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white
+  alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/sm.ahaduzzaman.10" target="_blank">
+  <img
+  src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white
+  alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/sk_zaman_ahad" target="_blank">
+  <img
+  src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
+  alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/s-m-ahaduzzaman-b5a727199/" target="_blank">
+  <img
+  src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
+  alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/smahaduzzaman" target="_blank">
+  <img
+  src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white
+  alt=behance style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/UC8QRD-tdHlm69iJb8KP9q5g" target="_blank">
+  <img
+  src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white
+  alt=youtube style="margin-bottom: 5px;" />
+</a>
 
-In the Last Amar Ekushey Book Fair - 2017, Dhaka, Bangladesh, I have published a book of poetry titled "Fire Aye". Publisher - Suniti Publications, Dhaka, Bangladesh. ISBN number of the book is 98-974-4473-25-1.
-I have mastered online SEO, Content Writing, Article Writing, Creative Writing, WordPress, Website Design. I also have a good command of Microsoft Word, Excel, and PowerPoint. I can handle Android phones, Laptops, Desktops well. I have completed various courses on these subjects and obtained multiple certificates.
-I have profiles on social media (like - Facebook, Twitter, Instagram, Linked In, Pinterest) which have a significant amount of traffic. I also have multiple channels on YouTube, including Daily Motion. I often have to keep busy with several blogs and websites. Moreover, I regularly work in various marketplaces including Fiverr, Upwork, SEO Clark.
+### Glad to see you here! I am from Bangladesh; a Professional Web Designer and
+Developer and a Poet-literary. Writing poetry is my favorite hobby. Also, I like
+to read. I am a firm believer in changing everything through my writing and I
+always try to do that. I am currently working on a project and a portfolio of
+all these works. My poems, quotes, and other writings are some of the highlights
+of my work. I run a social movement called "Civilized Bangladesh" online and on
+social media. "Be civilized and build civilization" is the leading of this.
+Despite being poor, I carry out these activities on my own initiative. At the
+Last Amar Ekushey Book Fair - 2017, Dhaka, Bangladesh, I published a book of
+poetry titled "Fire Aye". Publisher - Suniti Publications, Dhaka, Bangladesh.
+The ISBN number of the book is 98-974-4473-25-1. I have mastered online SEO,
+Content Writing, Article Writing, Creative Writing, WordPress, and Website
+Design. I also have a good command of Microsoft Word, Excel, and PowerPoint. I
+can handle Android phones, Laptops, and Desktops well. I have completed various
+courses on these subjects and obtained multiple certificates. I have profiles on
+social media (like - Facebook, Twitter, Instagram, Linked In, and Pinterest)
+which have a significant amount of traffic. I also have multiple channels on
+YouTube, including Daily Motion. I often have to keep busy with several blogs
+and websites. Moreover, I regularly work in various marketplaces including
+Fiverr, Upwork, and SEO Clark.
 
+<br />
 
-Skills: JavaScript / PHP / WordPress
+## Rapidfire
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      - 🔭 I’m currently working on [Visa
+      Pass](https://www.youtube.com/channel/UC8QRD-tdHlm69iJb8KP9q5g) - 🌱 I’m
+      currently learning MERN Stack Development - ❓ Ask me about anything
+      related to MERN stack and related technologies - ⚡ Fun fact: I keep night
+      shift swithed on at all times
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <img
+          src="https://avatars.githubusercontent.com/u/85965018?v=4"
+          align="center"
+          style="width: 100%"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on VisaPass 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with a new project ordered. 
-- 💬 Ask me about Web Designing and Developing 
-- 📫 How to reach me: https://m.me/sm.ahaduzzaman.10/ 
-- 😄 Pronouns: a programmer, a poet 
-- ⚡ Fun fact: Politics 
+<br />
 
+## Languages and Tools
+<div align="center">
+  <a href="https://reactjs.org/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
+      alt="React"
+      height="25"
+  /></a>
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg"
+      alt="Bootstrap"
+      height="25"
+  /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg"
+      alt="CSS3"
+      height="25"
+  /></a>
+  <a href="https://www.electronjs.org/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/electron-original.svg"
+      alt="Electron"
+      height="25"
+  /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"
+      alt="HTML5"
+      height="25"
+  /></a>
+  <a href="https://www.javascript.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg"
+      alt="JavaScript"
+      height="25"
+  /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg"
+      alt="TypeScript"
+      height="25"
+  /></a>
+  <a href="https://www.php.net/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/php-original.svg"
+      alt="PHP"
+      height="25"
+  /></a>
+  <a href="https://www.mysql.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"
+      alt="MySQL"
+      height="25"
+  /></a>
+  <a href="https://www.mongodb.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg"
+      alt="MongoDB"
+      height="25"
+  /></a>
+  <a href="https://www.python.org/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/python-original.svg"
+      alt="Python"
+      height="25"
+  /></a>
+  <a href="https://www.nginx.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg"
+      alt="Nginx"
+      height="25"
+  /></a>
+  <a href="https://expressjs.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg"
+      alt="Express.js"
+      height="25"
+  /></a>
+  <a href="https://www.apachefriends.org/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/xampp.png"
+      alt="XAMPP"
+      height="25"
+  /></a>
+  <a href="https://www.linux.org/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
+      alt="Linux"
+      height="25"
+  /></a>
+  <a href="https://sass-lang.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/sass-original.svg"
+      alt="Sass"
+      height="25"
+  /></a>
+  <a href="https://github.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg"
+      alt="Git"
+      height="25"
+  /></a>
+  <a href="https://firebase.google.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/firebase.png"
+      alt="Firebase"
+      height="25"
+  /></a>
+  <a href="https://wordpress.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/wordpress.png"
+      alt="WordPress"
+      height="25"
+  /></a>
+  <a href="https://nodejs.org/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg"
+      alt="Node.js"
+      height="25"
+  /></a>
+  <a href="https://www.figma.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg"
+      alt="Figma"
+      height="25"
+  /></a>
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/powershell.png"
+      alt="PowerShell"
+      height="25"
+  /></a>
+  <a href="https://redux.js.org/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/redux-original.svg"
+      alt="Redux"
+      height="25"
+  /></a>
+  <a href="https://laravel.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg"
+      alt="Laravel"
+      height="25"
+  /></a>
+  <a href="https://about.gitlab.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/gitlab.svg"
+      alt="GitLab"
+      height="25"
+  /></a>
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png"
+      alt="Premiere Pro"
+      height="25"
+  /></a>
+  <a href="http://getbem.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/bem.svg"
+      alt="BEM"
+      height="25"
+  /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg"
+      alt="Bash"
+      height="25"
+  /></a>
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg"
+      alt="Photoshop"
+      height="25"
+  /></a>
+  <a href="https://woocommerce.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/woocommerce.png"
+      alt="WooCommerce"
+      height="25"
+  /></a>
+  <a href="https://jquery.com/" target="_blank"
+    ><img
+      style="margin: 10px"
+      src="https://profilinator.rishav.dev/skills-assets/jquery.png"
+      alt="jQuery"
+      height="25"
+  /></a>
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/smahaduzzaman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/s-m-ahaduzzaman-b5a727199//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sm.ahaduzzaman.10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SovvoBangladesh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC8QRD-tdHlm69iJb8KP9q5g)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://visapass.info)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](smahaduzzaman96@gmail.com)  
+<br />
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## Github Stats
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true"
+        align="left"
+        style="width: 100%"
+      />
+    </td>
+    <td valign="top" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=smahaduzzaman&hide_border=true&layout=compact"
+        align="left"
+        style="width: 100%"
+      />
+    </td>
+  </tr>
+</table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/smahaduzzaman)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/smahaduzzaman)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/smahaduzzaman&show_icons=true&count_private=true)  
+<br />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/smahaduzzaman)  
+<img
+  src="https://cdn.pixabay.com/photo/2018/02/16/14/09/business-man-3157759_1280.jpg"
+  align="left"
+  height=""
+  width="450"
+/>
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/smahaduzzaman)  
+<br />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/smahaduzzaman)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/smahaduzzaman)  
+----
+<div align="center">
+  Generated using
+  <a href="https://profilinator.rishav.dev/" target="_blank"
+    >Github Profilinator</a
+  >
+</div>
