@@ -332,20 +332,27 @@ regularly work in various marketplaces including Fiverr, Upwork, and SEO Clark.
 <br />
 
 <br />
-
-<img
+<div>
+  <img
   src="https://cdn.pixabay.com/photo/2018/02/16/14/09/business-man-3157759_1280.jpg"
   align="left"
   height=""
   width="450"
 />
+  <img
+  src="https://cdn.pixabay.com/photo/2018/02/16/14/09/business-man-3157759_1280.jpg"
+  align="right"
+  height=""
+  width="450"
+/>
+</div>
 
 <br />
 
 ----
 <div align="center">
   Generated using
-  <a href="https://profilinator.rishav.dev/" target="_blank"
-    >Github Profilinator</a
+  <a href="https://smahaduzzaman.com" target="_blank"
+    >S M Ahaduzzaman</a
   >
 </div>
