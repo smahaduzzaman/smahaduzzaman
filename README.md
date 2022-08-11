@@ -64,7 +64,7 @@ Fiverr, Upwork, and SEO Clark.
   <tr>
     <td valign="top" width="50%">
       - 🔭 I’m currently working on [Visa
-      Pass](https://www.youtube.com/channel/UC8QRD-tdHlm69iJb8KP9q5g) - 🌱 I’m
+      Pass] - 🌱 I’m
       currently learning MERN Stack Development - ❓ Ask me about anything
       related to MERN stack and related technologies - ⚡ Fun fact: I keep night
       shift swithed on at all times
