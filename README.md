@@ -1,4 +1,4 @@
-## Hey 👋, I'm S. M. Ahaduzzaman
+### Hi there 👋, I am S. M. Ahaduzzaman
 
 <a href="https://github.com/smahaduzzaman" target="_blank">
   <img
@@ -30,14 +30,13 @@
   src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white
   alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/UC8QRD-tdHlm69iJb8KP9q5g" target="_blank">
-  <img
-  src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white
-  alt=youtube style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UC8QRD-tdHlm69iJb8KP9q5g" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
 
-### Glad to see you here!
-<br /><br />
+### Glad to See You Here!
+<br />
 
 <div>
   <img
@@ -74,23 +73,23 @@ Fiverr, Upwork, and SEO Clark.
 <table>
   <tr>
     <td valign="top" width="50%">
-      🔭 I’m currently working on [VisaPass](https://www.VisaPass.info/) <br />
+      🔭 I’m currently working on [VisaPass](https://www.VisaPass.info/) <br /><br />
       🌱 I’m currently learning MERN Stack Development With Programming Hero
-      <br />
+      <br /><br />
       ❓ Ask me about anything related to MERN stack and related technologies
-      <br />
-      👯 I’m looking to collaborate on GitHub <br />
-      🤔 I’m looking for help with a new project ordered <br />
-      💬 Ask me about Web Designing and Developing <br />
-      📫 How to reach me: https://m.me/sm.ahaduzzaman.10/ <br />
-      😄 Pronouns: a programmer, a poet <br />
+      <br /><br />
+      👯 I’m looking to collaborate on GitHub <br /><br />
+      🤔 I’m looking for help with a new project ordered <br /><br />
+      💬 Ask me about Web Designing and Developing <br /><br />
+      📫 How to reach me: https://m.me/sm.ahaduzzaman.10/ <br /><br />
+      😄 Pronouns: a programmer, a poet <br /><br />
       ⚡ Fun fact: Politics <br />
     </td>
     <td valign="top" width="50%">
-      <div align="center">
+      <div align="right">
         <img
           src="https://avatars.githubusercontent.com/u/85965018?v=4"
-          align="center"
+          align="right"
           style="width: 100%"
         />
       </div>
@@ -352,14 +351,14 @@ Fiverr, Upwork, and SEO Clark.
   <img
     src="https://cdn.pixabay.com/photo/2018/02/16/14/09/business-man-3157759_1280.jpg"
     align="left"
-    height=""
-    width="350"
+    height="270"
+    width="320"
   />
   <img
     src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg"
     align="right"
-    height=""
-    width="350"
+    height="270"
+    width="320"
   />
 </div>
 
@@ -367,6 +366,6 @@ Fiverr, Upwork, and SEO Clark.
 
 ----
 <div align="center">
-  Created By
+  Signed By
   <a href="https://smahaduzzaman.com" target="_blank">S M Ahaduzzaman</a>
 </div>
