@@ -1,8 +1,8 @@
 # Hi there 👋, I'm S. M. Ahaduzzaman
 ### Professional Web Designer and Developer
-![Professional Web Designer and Developer](https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/240658175_408986190922020_381756558977716361_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=AMxR7FYa5z0AX8VrxCA&_nc_ht=scontent.fdac23-1.fna&oh=7c2b5ca014a5481113a8088ae2ee1964&oe=619CC7D6)
+![Professional Web Designer and Developer]([https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/240658175_408986190922020_381756558977716361_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=AMxR7FYa5z0AX8VrxCA&_nc_ht=scontent.fdac23-1.fna&oh=7c2b5ca014a5481113a8088ae2ee1964&oe=619CC7D6](https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--enVmT-G4--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j8s2h4erdejm82dyyn7.png&imgrefurl=https%3A%2F%2Fdev.to%2Fruppysuppy%2Fbeautify-your-github-profile-like-a-pro-5093&tbnid=iYW8pW0jfOQl5M&vet=12ahUKEwj6pOHHxb75AhXpjtgFHSIYBP4QMygAegUIARDBAQ..i&docid=FXHWyz_-zNwxmM&w=1000&h=420&q=github%20cover%20image&ved=2ahUKEwj6pOHHxb75AhXpjtgFHSIYBP4QMygAegUIARDBAQ))
 
-I am from Bangladesh; a Professional Web Designer and Developer, a Teacher, and a Poet-literary also. Writing poetry is my favorite hobby. Also, I like to read. I am a firm believer in changing everything through my writing and I always try to do that.
+I am from Bangladesh; a Professional Web Designer and Developer and a Poet-literary. Writing poetry is my favorite hobby. Also, I like to read. I am a firm believer in changing everything through my writing and I always try to do that.
 I am currently working on a project and a portfolio of all these works. My poems, quotes, and other writings are some of the highlights of my work.
 I run a social movement called "Civilized Bangladesh" through online and social media. "Be civilized and build civilization" is the leading of this. Despite being poor, I carry out these activities on my own initiative.
 
@@ -19,7 +19,7 @@ Skills: JavaScript / PHP / WordPress
 - 🤔 I’m looking for help with a new project ordered. 
 - 💬 Ask me about Web Designing and Developing 
 - 📫 How to reach me: https://m.me/sm.ahaduzzaman.10/ 
-- 😄 Pronouns: a teacher, a poet 
+- 😄 Pronouns: a programmer, a poet 
 - ⚡ Fun fact: Politics 
 
 
