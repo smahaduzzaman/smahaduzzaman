@@ -36,26 +36,26 @@
   alt=youtube style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here! I am from Bangladesh; a Professional Web Designer and
-Developer and a Poet-literary. Writing poetry is my favorite hobby. Also, I like
-to read. I am a firm believer in changing everything through my writing and I
-always try to do that. I am currently working on a project and a portfolio of
-all these works. My poems, quotes, and other writings are some of the highlights
-of my work. I run a social movement called "Civilized Bangladesh" online and on
-social media. "Be civilized and build civilization" is the leading of this.
-Despite being poor, I carry out these activities on my own initiative. At the
-Last Amar Ekushey Book Fair - 2017, Dhaka, Bangladesh, I published a book of
-poetry titled "Fire Aye". Publisher - Suniti Publications, Dhaka, Bangladesh.
-The ISBN number of the book is 98-974-4473-25-1. I have mastered online SEO,
-Content Writing, Article Writing, Creative Writing, WordPress, and Website
-Design. I also have a good command of Microsoft Word, Excel, and PowerPoint. I
-can handle Android phones, Laptops, and Desktops well. I have completed various
-courses on these subjects and obtained multiple certificates. I have profiles on
-social media (like - Facebook, Twitter, Instagram, Linked In, and Pinterest)
-which have a significant amount of traffic. I also have multiple channels on
-YouTube, including Daily Motion. I often have to keep busy with several blogs
-and websites. Moreover, I regularly work in various marketplaces including
-Fiverr, Upwork, and SEO Clark.
+### Glad to see you here! <br /><br />
+I am from Bangladesh; a Professional Web Designer and Developer and a
+Poet-literary. Writing poetry is my favorite hobby. Also, I like to read. I am a
+firm believer in changing everything through my writing and I always try to do
+that. I am currently working on a project and a portfolio of all these works. My
+poems, quotes, and other writings are some of the highlights of my work. I run a
+social movement called "Civilized Bangladesh" online and on social media. "Be
+civilized and build civilization" is the leading of this. Despite being poor, I
+carry out these activities on my own initiative. At the Last Amar Ekushey Book
+Fair - 2017, Dhaka, Bangladesh, I published a book of poetry titled "Fire Aye".
+Publisher - Suniti Publications, Dhaka, Bangladesh. The ISBN number of the book
+is 98-974-4473-25-1. I have mastered online SEO, Content Writing, Article
+Writing, Creative Writing, WordPress, and Website Design. I also have a good
+command of Microsoft Word, Excel, and PowerPoint. I can handle Android phones,
+Laptops, and Desktops well. I have completed various courses on these subjects
+and obtained multiple certificates. I have profiles on social media (like -
+Facebook, Twitter, Instagram, Linked In, and Pinterest) which have a significant
+amount of traffic. I also have multiple channels on YouTube, including Daily
+Motion. I often have to keep busy with several blogs and websites. Moreover, I
+regularly work in various marketplaces including Fiverr, Upwork, and SEO Clark.
 
 <br />
 
@@ -63,11 +63,12 @@ Fiverr, Upwork, and SEO Clark.
 <table>
   <tr>
     <td valign="top" width="50%">
-      - 🔭 I’m currently working on [Visa
-      Pass] - 🌱 I’m
-      currently learning MERN Stack Development - ❓ Ask me about anything
-      related to MERN stack and related technologies - ⚡ Fun fact: I keep night
-      shift swithed on at all times
+      - 🔭 I’m currently working on [VisaPass](https://www.VisaPass.info/)
+      <br />
+      🌱 I’m currently learning MERN Stack Development <br />
+      ❓ Ask me about anything related to MERN stack and related technologies
+      <br />
+      ⚡ Fun fact: I keep nightshift swithed on at all times
     </td>
     <td valign="top" width="50%">
       <div align="center">
@@ -311,7 +312,7 @@ Fiverr, Upwork, and SEO Clark.
   <tr>
     <td valign="top" width="50%">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=smahaduzzaman&show_icons=true&count_private=true&hide_border=true"
         align="left"
         style="width: 100%"
       />
