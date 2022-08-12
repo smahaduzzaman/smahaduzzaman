@@ -40,12 +40,12 @@
 
 <div>
   <img
-    src="https://document-export.canva.com/251so/DAFJBT251so/16/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220811%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220811T014928Z&X-Amz-Expires=48593&X-Amz-Signature=f98d2190e953300dd93a707882d881bd7c2ace76a9f4df6fbaddbefc61ff51e5&X-Amz-SignedHeaders=host&response-expires=Thu%2C%2011%20Aug%202022%2015%3A19%3A21%20GMT"
+    src="https://document-export.canva.com/251so/DAFJBT251so/20/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220812%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220812T004017Z&X-Amz-Expires=14508&X-Amz-Signature=206806cd23aec0ebe2ae78a347b22e74a0f2f5c135d6d1456a0c4a7bf0e3d07a&X-Amz-SignedHeaders=host&response-expires=Fri%2C%2012%20Aug%202022%2004%3A42%3A05%20GMT"
     align="center"
     style="width: 100%"
   />
 </div>
-<br /><br /><br />
+<br /><br />
 I am from Bangladesh; a Professional Web Designer and Developer and a
 Poet-literary. Writing poetry is my favorite hobby. Also, I like to read. I am a
 firm believer in changing everything through my writing and I always try to do
@@ -352,13 +352,13 @@ Fiverr, Upwork, and SEO Clark.
     src="https://cdn.pixabay.com/photo/2018/02/16/14/09/business-man-3157759_1280.jpg"
     align="left"
     height="270"
-    width="320"
+    width="300"
   />
   <img
     src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg"
     align="right"
     height="270"
-    width="320"
+    width="300"
   />
 </div>
 
