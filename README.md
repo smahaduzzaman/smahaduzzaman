@@ -40,7 +40,7 @@
 
 <div>
   <img
-    src="https://document-export.canva.com/251so/DAFJBT251so/20/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220812%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220812T004017Z&X-Amz-Expires=14508&X-Amz-Signature=206806cd23aec0ebe2ae78a347b22e74a0f2f5c135d6d1456a0c4a7bf0e3d07a&X-Amz-SignedHeaders=host&response-expires=Fri%2C%2012%20Aug%202022%2004%3A42%3A05%20GMT"
+    src="https://drive.google.com/file/d/1bEM0QEoGyi1RuBumrRIiCNGqZOor7Lrd/view?usp=sharing"
     align="center"
     style="width: 100%"
   />
