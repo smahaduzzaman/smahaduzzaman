@@ -40,7 +40,7 @@
 
 <div>
   <img
-    src="https://drive.google.com/file/d/1bEM0QEoGyi1RuBumrRIiCNGqZOor7Lrd/view?usp=sharing"
+    src="https://document-export.canva.com/251so/DAFJBT251so/20/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220814%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220814T004017Z&X-Amz-Expires=10908&X-Amz-Signature=8dc5dd8359fc30ca4ee6a9fec01c8a89fde3d3890729b223387e53cc33c70897&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2014%20Aug%202022%2003%3A42%3A05%20GMT"
     align="center"
     style="width: 100%"
   />
@@ -73,7 +73,7 @@ Fiverr, Upwork, and SEO Clark.
 <table>
   <tr>
     <td valign="top" width="50%">
-      🔭 I’m currently working on [VisaPass](https://www.VisaPass.info/) <br /><br />
+      🔭 I’m currently working on [VisaPass] <br /><br />
       🌱 I’m currently learning MERN Stack Development With Programming Hero
       <br /><br />
       ❓ Ask me about anything related to MERN stack and related technologies
