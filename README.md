@@ -40,7 +40,7 @@
 
 <div>
   <img
-    src="https://document-export.canva.com/251so/DAFJBT251so/20/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220814%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220814T004017Z&X-Amz-Expires=10908&X-Amz-Signature=8dc5dd8359fc30ca4ee6a9fec01c8a89fde3d3890729b223387e53cc33c70897&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2014%20Aug%202022%2003%3A42%3A05%20GMT"
+    src=https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/299158055_594192962432696_3113752876386482380_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeGOQglMCzRUTsnCqrowrrcAoNY8BGeVjBeg1jwEZ5WMFxikXk-_YxpGJqCJCENK-Hj7Bkbx2sbny7dYAgs5pQ93&_nc_ohc=SUhLEAJkj60AX_fB5fo&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT9QgF3XFf8SnIN0P8YTU7rEzIyj5w9XGJz2tWCfgcWRLQ&oe=62FED169"
     align="center"
     style="width: 100%"
   />
