@@ -37,14 +37,6 @@
 
 ### Glad to See You Here!
 <br />
-
-<div>
-  <img
-    src="[[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3IyQ7kDnq406NBfyEKaGeZwLcEPdpm2aB7Q&usqp=CAU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJNiPNxX4SS19YPaJbPjD8R5rDOr3NW23f1Q&usqp=CAU)](https://www.servermania.com/kb/wp-content/uploads/2022/04/KB-MERN-Featured.jpg)](https://pixabay.com/images/id-3706551/)"
-    align="center"
-    style="width: 100%"
-  />
-</div>
 <br /><br />
 I am from Bangladesh; a Professional Web Designer and Developer and a
 Poet-literary. Writing poetry is my favorite hobby. Also, I like to read. I am a
