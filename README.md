@@ -40,7 +40,7 @@
 
 <div>
   <img
-    src="https://media-exp1.licdn.com/dms/image/C5622AQHDkIG19rKvng/feedshare-shrink_800/0/1661329276293?e=1664409600&v=beta&t=rooW-IQFCo-vhZrpBVab_Fbs0dkDvrpZ5KTuT2P4FTg"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3IyQ7kDnq406NBfyEKaGeZwLcEPdpm2aB7Q&usqp=CAU"
     align="center"
     style="width: 100%"
   />
