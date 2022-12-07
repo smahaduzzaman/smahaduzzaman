@@ -37,27 +37,37 @@
 
 ### Glad to See You Here!
 <br />
-<br /><br />
-I am from Bangladesh; a Professional Web Designer and Developer and a
-Poet-literary. Writing poetry is my favorite hobby. Also, I like to read. I am a
-firm believer in changing everything through my writing and I always try to do
-that. I am currently working on a project and a portfolio of all these works. My
-poems, quotes, and other writings are some of the highlights of my work. I run a
-social movement called "Civilized Bangladesh" online and on social media. "Be
-civilized and build civilization" is the leading of this. Despite being poor, I
-carry out these activities on my own initiative. <br /><br />At the Last Amar
-Ekushey Book Fair - 2017, Dhaka, Bangladesh, I published a book of poetry titled
-"Fire Aye". Publisher - Suniti Publications, Dhaka, Bangladesh. The ISBN number
-of the book is 98-974-4473-25-1. I have mastered online SEO, Content Writing,
-Article Writing, Creative Writing, WordPress, and Website Design. I also have a
-good command of Microsoft Word, Excel, and PowerPoint. I can handle Android
-phones, Laptops, and Desktops well. I have completed various courses on these
-subjects and obtained multiple certificates. <br /><br />I have profiles on
-social media (like - Facebook, Twitter, Instagram, Linked In, and Pinterest)
-which have a significant amount of traffic. I also have multiple channels on
-YouTube, including Daily Motion. I often have to keep busy with several blogs
-and websites. Moreover, I regularly work in various marketplaces including
-Fiverr, Upwork, and SEO Clark.
+Summary: Started my journey in the ICT sector with deep enthusiasm and little experience. Looking for an opportunity to prove my skills as a new web developer. Through thousands of pains and sufferings, I have mastered the MERN stack. I want to prove myself through my skills and teamwork when given the opportunity.
+Early Developed Projects:
+Used Products Resell – Used Products Resell E-commerce Website - Live | Client | Server
+	There have different types of login systems Ex. Admin, Seller, Buyer
+	Here used React Query and React Hook Form For Fast Delivery and getting better input.
+	For getting payment here used the Stripe payment gateway in this project.
+Technologies: React JS, Express JS, MongoDB, Firebase, Vercel, Tailwind CSS, Daisy UI, Stripe, Etc
+Service Review Website – Personal Service Selling Review Website - Live | Client | Server
+	Firebase authentication for identifying Verified users.
+	Used pdf generator for better service to the users.
+	Have used Vercel for better performance and better services.
+Technologies: React JS, Express JS, MongoDB, Firebase, Vercel, Tailwind CSS, Mamba UI, Toastify, Etc
+Learning Platform – ICT Education Learning Course Related Website - Live | Client | Server
+	This is an e-Learning platform for computer programming languages courses.
+	Has authentication using Firebase and JSON Web Token.
+	Included user-verifying functionality for authenticating users
+Technologies: Tailwind CSS, React JS, Node JS, Express JS, Rest API, MongoDB, Firebase, Etc
+Educational Qualification:
+B. Sc in Mathematics: National University, Bangladesh, Passing Year: 2002, Result: 2nd Class
+The Role Of The Manager: Amity University, India, Status: Completed | Date: 8th April 2021
+Complete Web Development: Programming Hero, Bangladesh, Status: Current | Dated: 2nd December 2022
+Advanced Web Design: Instructory, Status: Completed | Date: 07th November 2021
+Skill Highlights:
+	Expertise: HTML, CSS, Javascript, React JS, Next JS, Socket.io, Context API, Axios, Day Picker, NodeMailer, Firebase, JWT, React Hook Form, React Query, Pagination, Payment Getway (Stripe, SSL Commarze), Image Upload, Bootstrap, Tailwind CSS, Daisy UI, Headless UI, Mamba UI, Material UI, Styled Component Etc.
+	Comfortable: React JS, Context API, Axios, Firebase, React Query, Stripe, Material UI, Styled Component Etc.
+	Familiar: with PHP, Laravel, WordPress Theme Development, and Digital Marketing
+	Tools: VS Code, Atom, Netlify, GitHub, Dev Tool, Figma, Vercel, WordPress, Mongo Compass, Postman, XAMPP, Zoom, OBS Studio, Photoshop, Filmora, MS Office Etc.
+Interpersonal Skills: Problem Solving, Leadership, Team Work, Project Management, Working Time Management, Speaker Etc.
+Language Skills: Bangla – Native  |  English – Conversation
+Hobbies and Interests: Poetry Writing (Blog), Singing, Interest In Something new, Learning Tech Related Stuff, Etc.
+
 
 <br />
 
