@@ -50,11 +50,11 @@ Advanced Web Design: Instructory, Status: Completed | Date: 07th November 2021
 ### Skill Highlights:
 <br />
 Expertise: HTML, CSS, Javascript, React JS, Next JS, Socket.io, Context API, Axios, Day Picker, NodeMailer, Firebase, JWT, React Hook Form, React Query, Pagination, Payment Getway (Stripe, SSL Commarze), Image Upload, Bootstrap, Tailwind CSS, Daisy UI, Headless UI, Mamba UI, Material UI, Styled Component Etc.
-<br /><br />
+<br />
 Comfortable: React JS, Context API, Axios, Firebase, React Query, Stripe, Material UI, Styled Component Etc.
 <br />
 Familiar: with PHP, Laravel, WordPress Theme Development, and Digital Marketing
-<br /><br />
+<br />
 Tools: VS Code, Atom, Netlify, GitHub, Dev Tool, Figma, Vercel, WordPress, Mongo Compass, Postman, XAMPP, Zoom, OBS Studio, Photoshop, Filmora, MS Office Etc.
 <br /><br />
 Interpersonal Skills: Problem Solving, Leadership, Team Work, Project Management, Working Time Management, Speaker Etc.
