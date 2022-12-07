@@ -37,18 +37,22 @@
 
 ### Glad to See You Here!
 Summary: Started my journey in the ICT sector with deep enthusiasm and little experience. Looking for an opportunity to prove my skills as a new web developer. Through thousands of pains and sufferings, I have mastered the MERN stack. I want to prove myself through my skills and teamwork when given the opportunity.
-<br />
+<br /> <br />
 Early Developed Projects:
+<br /> <br />
 Used Products Resell – Used Products Resell E-commerce Website - Live | Client | Server
+<br /> <br />
 	There have different types of login systems Ex. Admin, Seller, Buyer
 	Here used React Query and React Hook Form For Fast Delivery and getting better input.
 	For getting payment here used the Stripe payment gateway in this project.
 Technologies: React JS, Express JS, MongoDB, Firebase, Vercel, Tailwind CSS, Daisy UI, Stripe, Etc
+<br /> <br />
 Service Review Website – Personal Service Selling Review Website - Live | Client | Server
 	Firebase authentication for identifying Verified users.
 	Used pdf generator for better service to the users.
 	Have used Vercel for better performance and better services.
 Technologies: React JS, Express JS, MongoDB, Firebase, Vercel, Tailwind CSS, Mamba UI, Toastify, Etc
+<br /> <br />
 Learning Platform – ICT Education Learning Course Related Website - Live | Client | Server
 	This is an e-Learning platform for computer programming languages courses.
 	Has authentication using Firebase and JSON Web Token.
