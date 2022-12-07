@@ -38,7 +38,7 @@
 ### Glad to See You Here!
 Summary: Started my journey in the ICT sector with deep enthusiasm and little experience. Looking for an opportunity to prove my skills as a new web developer. Through thousands of pains and sufferings, I have mastered the MERN stack. I want to prove myself through my skills and teamwork when given the opportunity.
 <br />
-## Educational Qualification:
+### Educational Qualification:
 B.Sc in Mathematics: National University, Bangladesh, Passing Year: 2002, Result: 2nd Class
 <br />
 The Role Of The Manager: Amity University, India, Status: Completed | Date: 8th April 2021
@@ -46,31 +46,22 @@ The Role Of The Manager: Amity University, India, Status: Completed | Date: 8th 
 Complete Web Development: Programming Hero, Bangladesh, Status: Current | Dated: 2nd December 2022
 <br />
 Advanced Web Design: Instructory, Status: Completed | Date: 07th November 2021
-<br />
+<br /><br />
 ### Skill Highlights:
 <br />
-### Expertise:
+Expertise: HTML, CSS, Javascript, React JS, Next JS, Socket.io, Context API, Axios, Day Picker, NodeMailer, Firebase, JWT, React Hook Form, React Query, Pagination, Payment Getway (Stripe, SSL Commarze), Image Upload, Bootstrap, Tailwind CSS, Daisy UI, Headless UI, Mamba UI, Material UI, Styled Component Etc.
+<br /><br />
+Comfortable: React JS, Context API, Axios, Firebase, React Query, Stripe, Material UI, Styled Component Etc.
 <br />
-HTML, CSS, Javascript, React JS, Next JS, Socket.io, Context API, Axios, Day Picker, NodeMailer, Firebase, JWT, React Hook Form, React Query, Pagination, Payment Getway (Stripe, SSL Commarze), Image Upload, Bootstrap, Tailwind CSS, Daisy UI, Headless UI, Mamba UI, Material UI, Styled Component Etc.
-<br />
-### Comfortable:
-<br />
-React JS, Context API, Axios, Firebase, React Query, Stripe, Material UI, Styled Component Etc.
-<br />
-### Familiar: 
-with PHP, Laravel, WordPress Theme Development, and Digital Marketing
-<br />
-### Tools:
-VS Code, Atom, Netlify, GitHub, Dev Tool, Figma, Vercel, WordPress, Mongo Compass, Postman, XAMPP, Zoom, OBS Studio, Photoshop, Filmora, MS Office Etc.
+Familiar: with PHP, Laravel, WordPress Theme Development, and Digital Marketing
+<br /><br />
+Tools: VS Code, Atom, Netlify, GitHub, Dev Tool, Figma, Vercel, WordPress, Mongo Compass, Postman, XAMPP, Zoom, OBS Studio, Photoshop, Filmora, MS Office Etc.
+<br /><br />
 Interpersonal Skills: Problem Solving, Leadership, Team Work, Project Management, Working Time Management, Speaker Etc.
-<br />
-## Language Skills:
-<br />
-Bangla – Native  |  English – Conversation
-<br />
-## Hobbies and Interests:
-<br />
-Poetry Writing (Blog), Singing, Interest In Something new, Learning Tech Related Stuff, Etc.
+<br /><br />
+Language Skills: Bangla – Native  |  English – Conversation
+<br /><br />
+Hobbies and Interests: Poetry Writing (Blog), Singing, Interest In Something new, Learning Tech Related Stuff, Etc.
 
 <br />
 
