@@ -37,7 +37,7 @@
 
 ### Glad to See You Here!
 Summary: Started my journey in the ICT sector with deep enthusiasm and little experience. Looking for an opportunity to prove my skills as a new web developer. Through thousands of pains and sufferings, I have mastered the MERN stack. I want to prove myself through my skills and teamwork when given the opportunity.
-<br /> <br />
+<br />
 ### Educational Qualification:
 B.Sc in Mathematics: National University, Bangladesh, Passing Year: 2002, Result: 2nd Class
 <br />
@@ -46,7 +46,7 @@ The Role Of The Manager: Amity University, India, Status: Completed | Date: 8th 
 Complete Web Development: Programming Hero, Bangladesh, Status: Current | Dated: 2nd December 2022
 <br />
 Advanced Web Design: Instructory, Status: Completed | Date: 07th November 2021
-<br /><br />
+<br />
 ### Skill Highlights:
 <br />
 ## Expertise:
