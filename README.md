@@ -38,44 +38,39 @@
 ### Glad to See You Here!
 Summary: Started my journey in the ICT sector with deep enthusiasm and little experience. Looking for an opportunity to prove my skills as a new web developer. Through thousands of pains and sufferings, I have mastered the MERN stack. I want to prove myself through my skills and teamwork when given the opportunity.
 <br /> <br />
-Early Developed Projects:
-<br /> <br />
-Used Products Resell – Used Products Resell E-commerce Website - Live | Client | Server
-<br /> <br />
-	There have different types of login systems Ex. Admin, Seller, Buyer
-	Here used React Query and React Hook Form For Fast Delivery and getting better input.
-	For getting payment here used the Stripe payment gateway in this project.
-Technologies: React JS, Express JS, MongoDB, Firebase, Vercel, Tailwind CSS, Daisy UI, Stripe, Etc
-<br /> <br />
-Service Review Website – Personal Service Selling Review Website - Live | Client | Server
-	Firebase authentication for identifying Verified users.
-	Used pdf generator for better service to the users.
-	Have used Vercel for better performance and better services.
-Technologies: React JS, Express JS, MongoDB, Firebase, Vercel, Tailwind CSS, Mamba UI, Toastify, Etc
-<br /> <br />
-Learning Platform – ICT Education Learning Course Related Website - Live | Client | Server
-	This is an e-Learning platform for computer programming languages courses.
-	Has authentication using Firebase and JSON Web Token.
-	Included user-verifying functionality for authenticating users
-Technologies: Tailwind CSS, React JS, Node JS, Express JS, Rest API, MongoDB, Firebase, Etc
+### Educational Qualification:
+B.Sc in Mathematics: National University, Bangladesh, Passing Year: 2002, Result: 2nd Class
 <br />
-Educational Qualification:
-B. Sc in Mathematics: National University, Bangladesh, Passing Year: 2002, Result: 2nd Class
 The Role Of The Manager: Amity University, India, Status: Completed | Date: 8th April 2021
-Complete Web Development: Programming Hero, Bangladesh, Status: Current | Dated: 2nd December 2022
-Advanced Web Design: Instructory, Status: Completed | Date: 07th November 2021
 <br />
-Skill Highlights:
-	Expertise: HTML, CSS, Javascript, React JS, Next JS, Socket.io, Context API, Axios, Day Picker, NodeMailer, Firebase, JWT, React Hook Form, React Query, Pagination, Payment Getway (Stripe, SSL Commarze), Image Upload, Bootstrap, Tailwind CSS, Daisy UI, Headless UI, Mamba UI, Material UI, Styled Component Etc.
-	Comfortable: React JS, Context API, Axios, Firebase, React Query, Stripe, Material UI, Styled Component Etc.
-	Familiar: with PHP, Laravel, WordPress Theme Development, and Digital Marketing
-	Tools: VS Code, Atom, Netlify, GitHub, Dev Tool, Figma, Vercel, WordPress, Mongo Compass, Postman, XAMPP, Zoom, OBS Studio, Photoshop, Filmora, MS Office Etc.
+Complete Web Development: Programming Hero, Bangladesh, Status: Current | Dated: 2nd December 2022
+<br />
+Advanced Web Design: Instructory, Status: Completed | Date: 07th November 2021
+<br /><br />
+### Skill Highlights:
+<br />
+## Expertise:
+<br />
+HTML, CSS, Javascript, React JS, Next JS, Socket.io, Context API, Axios, Day Picker, NodeMailer, Firebase, JWT, React Hook Form, React Query, Pagination, Payment Getway (Stripe, SSL Commarze), Image Upload, Bootstrap, Tailwind CSS, Daisy UI, Headless UI, Mamba UI, Material UI, Styled Component Etc.
+<br />
+## Comfortable:
+<br />
+React JS, Context API, Axios, Firebase, React Query, Stripe, Material UI, Styled Component Etc.
+<br />
+## Familiar: 
+with PHP, Laravel, WordPress Theme Development, and Digital Marketing
+<br />
+## Tools:
+VS Code, Atom, Netlify, GitHub, Dev Tool, Figma, Vercel, WordPress, Mongo Compass, Postman, XAMPP, Zoom, OBS Studio, Photoshop, Filmora, MS Office Etc.
 Interpersonal Skills: Problem Solving, Leadership, Team Work, Project Management, Working Time Management, Speaker Etc.
 <br />
-Language Skills: Bangla – Native  |  English – Conversation
+## Language Skills:
 <br />
-Hobbies and Interests: Poetry Writing (Blog), Singing, Interest In Something new, Learning Tech Related Stuff, Etc.
-
+Bangla – Native  |  English – Conversation
+<br />
+## Hobbies and Interests:
+<br />
+Poetry Writing (Blog), Singing, Interest In Something new, Learning Tech Related Stuff, Etc.
 
 <br />
 
