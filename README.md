@@ -5,6 +5,8 @@
     src="profile.png"
     alt="S M Ahaduzzaman"
     width="190"
+    height="190"
+    style="border-radius: 50%; object-fit: cover;"
   />
 </p>
 
