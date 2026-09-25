@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="./assets/profile.png"
+    src="profile.png"
     alt="S M Ahaduzzaman"
     width="190"
   />
