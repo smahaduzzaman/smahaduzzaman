@@ -1,13 +1,11 @@
 # Hi there 👋 I'm S M Ahaduzzaman
 
 <p align="center">
-  <img
-    src="profile.png"
-    alt="S M Ahaduzzaman"
-    width="190"
-    height="190"
-    style="border-radius: 50%; object-fit: cover;"
-  />
+ <img
+  src="profile.png"
+  alt="S M Ahaduzzaman"
+  style="border-radius: 100%;"
+>
 </p>
 
 <h3 align="center">Web Developer • WordPress & PHP • Mathematics Educator • Poet</h3>
